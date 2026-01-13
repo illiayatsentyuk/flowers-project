@@ -3,7 +3,6 @@
 У терміналі:
 
 ```bash
-cd flowers-react
 npm install
 npm run dev
 ```
